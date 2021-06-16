@@ -1,10 +1,15 @@
 import "./App.css";
+import SearchDictionary from "./SearchDictionary";
 
 export default function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
-      <h1>Hello</h1>
+      <div className="container">
+        <header className="App-header"></header>
+        <h1>Hello</h1>
+        <SearchDictionary />
+        <footer> Code By Catalina Undurraga</footer>
+      </div>
     </div>
   );
 }
