@@ -1,3 +1,8 @@
+h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
 section {
   background: #e6e3ec;
   padding: 20px;
@@ -11,5 +16,5 @@ input {
   padding: 5px 3px;
   border-radius: 5px;
   border: 1.5px solid #ddd;
-  color: #333;
+  color: #757272ab;
 }
