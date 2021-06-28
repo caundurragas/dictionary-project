@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <SearchDictionary defaultKeyword="hello" />
+        <SearchDictionary defaultKeyword="sunset" />
 
         <footer> Code By Catalina Undurraga</footer>
       </div>

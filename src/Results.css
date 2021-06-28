@@ -3,4 +3,5 @@ h2 {
   font-weight: bold;
   line-height: 1.5;
   margin-bottom: 15px;
+  text-transform: capitalize;
 }
