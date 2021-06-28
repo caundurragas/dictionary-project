@@ -1,17 +1,18 @@
 .phonetic {
   height: 45px;
 }
-a {
-  border: 1px solid #ddd;
+.phonetic a {
+  border: 1px solid #d0cccc;
   text-decoration: none;
-  padding: 5px 10px;
+  padding: 8px 15px;
   border-radius: 8px;
   font-size: 15px;
   margin-right: 8px;
+  font-weight: 400;
 }
 
 a:hover {
-  background: #9670f4;
+  background: #829cb1;
   color: white;
 }
 
